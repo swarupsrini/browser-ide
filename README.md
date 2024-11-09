@@ -38,7 +38,3 @@ Make sure you have the [Rust Code Server](https://github.com/JaLnYn/browser-ide)
 ## Contributing
 
 This is my testing playground, but if you want to make it less ugly or more functional, be my guest! 
-
-## License
-
-Coming soon! (MIT probably)
