@@ -1,6 +1,6 @@
 # Browser IDE
 
-A lightweight, probably-not-winning-any-design-awards browser IDE built with React, Tailwind, and shadcn/ui. Yes, it's ugly, but it works! 😅
+A lightweight, probably-not-winning-any-design-awards browser IDE built with React, Tailwind, and shadcn/ui.
 
 <img width="1488" alt="image" src="https://github.com/user-attachments/assets/01a95725-4c3b-49a1-93c2-668ba655dc11">
 
